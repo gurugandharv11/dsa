@@ -63,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/gurugandharv11/dsa/tree/master/0242-valid-anagram) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gurugandharv11/dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
+## Database
+|  |
+| ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/gurugandharv11/dsa/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
