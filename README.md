@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/gurugandharv11/dsa/tree/master/1345-jump-game-iv) |
 | [2540-minimum-common-value](https://github.com/gurugandharv11/dsa/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gurugandharv11/dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gurugandharv11/dsa/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/gurugandharv11/dsa/tree/master/1345-jump-game-iv) |
 | [2540-minimum-common-value](https://github.com/gurugandharv11/dsa/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gurugandharv11/dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gurugandharv11/dsa/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/gurugandharv11/dsa/tree/master/0242-valid-anagram) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gurugandharv11/dsa/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gurugandharv11/dsa/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -70,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/gurugandharv11/dsa/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gurugandharv11/dsa/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
