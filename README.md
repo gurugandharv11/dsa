@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/gurugandharv11/dsa/tree/master/0377-combination-sum-iv) |
 | [0746-min-cost-climbing-stairs](https://github.com/gurugandharv11/dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [1340-jump-game-v](https://github.com/gurugandharv11/dsa/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/gurugandharv11/dsa/tree/master/1871-jump-game-vii) |
 ## Tree
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/gurugandharv11/dsa/tree/master/0242-valid-anagram) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gurugandharv11/dsa/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1871-jump-game-vii](https://github.com/gurugandharv11/dsa/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gurugandharv11/dsa/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
@@ -83,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gurugandharv11/dsa/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/gurugandharv11/dsa/tree/master/1871-jump-game-vii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/gurugandharv11/dsa/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
