@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gurugandharv11/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2126-destroying-asteroids](https://github.com/gurugandharv11/dsa/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gurugandharv11/dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/gurugandharv11/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/gurugandharv11/dsa/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/gurugandharv11/dsa/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gurugandharv11/dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/gurugandharv11/dsa/tree/master/0337-house-robber-iii) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/gurugandharv11/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -43,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/gurugandharv11/dsa/tree/master/0337-house-robber-iii) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/gurugandharv11/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/gurugandharv11/dsa/tree/master/0242-valid-anagram) |
 | [1345-jump-game-iv](https://github.com/gurugandharv11/dsa/tree/master/1345-jump-game-iv) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/gurugandharv11/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/gurugandharv11/dsa/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gurugandharv11/dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gurugandharv11/dsa/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
