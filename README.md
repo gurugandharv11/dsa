@@ -40,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0337-house-robber-iii](https://github.com/gurugandharv11/dsa/tree/master/0337-house-robber-iii) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/gurugandharv11/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/gurugandharv11/dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/gurugandharv11/dsa/tree/master/0337-house-robber-iii) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/gurugandharv11/dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gurugandharv11/dsa/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/gurugandharv11/dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gurugandharv11/dsa/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/gurugandharv11/dsa/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## String
