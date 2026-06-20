@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/gurugandharv11/dsa/tree/master/1345-jump-game-iv) |
 | [1732-find-the-highest-altitude](https://github.com/gurugandharv11/dsa/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gurugandharv11/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1840-maximum-building-height](https://github.com/gurugandharv11/dsa/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/gurugandharv11/dsa/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gurugandharv11/dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gurugandharv11/dsa/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gurugandharv11/dsa/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/gurugandharv11/dsa/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1840-maximum-building-height](https://github.com/gurugandharv11/dsa/tree/master/1840-maximum-building-height) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/gurugandharv11/dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/gurugandharv11/dsa/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gurugandharv11/dsa/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gurugandharv11/dsa/tree/master/0242-valid-anagram) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gurugandharv11/dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1340-jump-game-v](https://github.com/gurugandharv11/dsa/tree/master/1340-jump-game-v) |
+| [1840-maximum-building-height](https://github.com/gurugandharv11/dsa/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/gurugandharv11/dsa/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gurugandharv11/dsa/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gurugandharv11/dsa/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
