@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/gurugandharv11/dsa/tree/master/0242-valid-anagram) |
+| [1189-maximum-number-of-balloons](https://github.com/gurugandharv11/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/gurugandharv11/dsa/tree/master/1345-jump-game-iv) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/gurugandharv11/dsa/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/gurugandharv11/dsa/tree/master/2540-minimum-common-value) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/gurugandharv11/dsa/tree/master/0242-valid-anagram) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gurugandharv11/dsa/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1189-maximum-number-of-balloons](https://github.com/gurugandharv11/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/gurugandharv11/dsa/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gurugandharv11/dsa/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/gurugandharv11/dsa/tree/master/3093-longest-common-suffix-queries) |
@@ -197,5 +199,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/gurugandharv11/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/gurugandharv11/dsa/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
