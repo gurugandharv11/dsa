@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/gurugandharv11/dsa/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/gurugandharv11/dsa/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gurugandharv11/dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gurugandharv11/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gurugandharv11/dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/gurugandharv11/dsa/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/gurugandharv11/dsa/tree/master/3093-longest-common-suffix-queries) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1345-jump-game-iv](https://github.com/gurugandharv11/dsa/tree/master/1345-jump-game-iv) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gurugandharv11/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/gurugandharv11/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [2540-minimum-common-value](https://github.com/gurugandharv11/dsa/tree/master/2540-minimum-common-value) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gurugandharv11/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/gurugandharv11/dsa/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gurugandharv11/dsa/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gurugandharv11/dsa/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gurugandharv11/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/gurugandharv11/dsa/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Linked List
 |  |
@@ -233,4 +237,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gurugandharv11/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gurugandharv11/dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gurugandharv11/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gurugandharv11/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
