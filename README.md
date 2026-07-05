@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/gurugandharv11/dsa/tree/master/0414-third-maximum-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/gurugandharv11/dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gurugandharv11/dsa/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1301-number-of-paths-with-max-score](https://github.com/gurugandharv11/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/gurugandharv11/dsa/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/gurugandharv11/dsa/tree/master/1345-jump-game-iv) |
 | [1732-find-the-highest-altitude](https://github.com/gurugandharv11/dsa/tree/master/1732-find-the-highest-altitude) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/gurugandharv11/dsa/tree/master/0377-combination-sum-iv) |
 | [0583-delete-operation-for-two-strings](https://github.com/gurugandharv11/dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/gurugandharv11/dsa/tree/master/0746-min-cost-climbing-stairs) |
+| [1301-number-of-paths-with-max-score](https://github.com/gurugandharv11/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/gurugandharv11/dsa/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/gurugandharv11/dsa/tree/master/1871-jump-game-vii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/gurugandharv11/dsa/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/gurugandharv11/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gurugandharv11/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gurugandharv11/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
