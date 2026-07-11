@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/gurugandharv11/dsa/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/gurugandharv11/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/gurugandharv11/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/gurugandharv11/dsa/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gurugandharv11/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/gurugandharv11/dsa/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/gurugandharv11/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gurugandharv11/dsa/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0583-delete-operation-for-two-strings](https://github.com/gurugandharv11/dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/gurugandharv11/dsa/tree/master/1189-maximum-number-of-balloons) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/gurugandharv11/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/gurugandharv11/dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/gurugandharv11/dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gurugandharv11/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -294,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/gurugandharv11/dsa/tree/master/3620-network-recovery-pathways) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/gurugandharv11/dsa/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
