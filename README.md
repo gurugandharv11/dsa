@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/gurugandharv11/dsa/tree/master/0033-search-in-rotated-sorted-array) |
+| [0078-subsets](https://github.com/gurugandharv11/dsa/tree/master/0078-subsets) |
 | [0377-combination-sum-iv](https://github.com/gurugandharv11/dsa/tree/master/0377-combination-sum-iv) |
 | [0414-third-maximum-number](https://github.com/gurugandharv11/dsa/tree/master/0414-third-maximum-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/gurugandharv11/dsa/tree/master/0746-min-cost-climbing-stairs) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/gurugandharv11/dsa/tree/master/0078-subsets) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gurugandharv11/dsa/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/gurugandharv11/dsa/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/gurugandharv11/dsa/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -304,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/gurugandharv11/dsa/tree/master/0387-first-unique-character-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/gurugandharv11/dsa/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
