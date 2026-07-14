@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/gurugandharv11/dsa/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/gurugandharv11/dsa/tree/master/3161-block-placement-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gurugandharv11/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gurugandharv11/dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/gurugandharv11/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/gurugandharv11/dsa/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/gurugandharv11/dsa/tree/master/3620-network-recovery-pathways) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/gurugandharv11/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/gurugandharv11/dsa/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/gurugandharv11/dsa/tree/master/1871-jump-game-vii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gurugandharv11/dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/gurugandharv11/dsa/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/gurugandharv11/dsa/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/gurugandharv11/dsa/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/gurugandharv11/dsa/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/gurugandharv11/dsa/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/gurugandharv11/dsa/tree/master/1840-maximum-building-height) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gurugandharv11/dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/gurugandharv11/dsa/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/gurugandharv11/dsa/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/gurugandharv11/dsa/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -311,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/gurugandharv11/dsa/tree/master/0078-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gurugandharv11/dsa/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
