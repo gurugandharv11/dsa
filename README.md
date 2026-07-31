@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/gurugandharv11/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0078-subsets](https://github.com/gurugandharv11/dsa/tree/master/0078-subsets) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gurugandharv11/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/gurugandharv11/dsa/tree/master/0217-contains-duplicate) |
 | [0377-combination-sum-iv](https://github.com/gurugandharv11/dsa/tree/master/0377-combination-sum-iv) |
 | [0414-third-maximum-number](https://github.com/gurugandharv11/dsa/tree/master/0414-third-maximum-number) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/gurugandharv11/dsa/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gurugandharv11/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/gurugandharv11/dsa/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gurugandharv11/dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gurugandharv11/dsa/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/gurugandharv11/dsa/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gurugandharv11/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2540-minimum-common-value](https://github.com/gurugandharv11/dsa/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gurugandharv11/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/gurugandharv11/dsa/tree/master/3161-block-placement-queries) |
