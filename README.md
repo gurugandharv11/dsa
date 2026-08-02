@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/gurugandharv11/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/gurugandharv11/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/gurugandharv11/dsa/tree/master/1340-jump-game-v) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gurugandharv11/dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1345-jump-game-iv](https://github.com/gurugandharv11/dsa/tree/master/1345-jump-game-iv) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/gurugandharv11/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/gurugandharv11/dsa/tree/master/1732-find-the-highest-altitude) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/gurugandharv11/dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gurugandharv11/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/gurugandharv11/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1871-jump-game-vii](https://github.com/gurugandharv11/dsa/tree/master/1871-jump-game-vii) |
